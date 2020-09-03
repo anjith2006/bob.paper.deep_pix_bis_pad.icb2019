@@ -13,4 +13,4 @@ This package contains source code to replicate the experimental results publishe
 
 Check the following link in gitlab for the code:
 
-https://gitlab.idiap.ch/bob/bob.paper.oneclass_mccnn_2019
+https://gitlab.idiap.ch/bob/bob.paper.deep_pix_bis_pad.icb2019
